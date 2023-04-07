@@ -3,3 +3,4 @@ letsencrypt
 certs
 custom-templates
 media
+.env
